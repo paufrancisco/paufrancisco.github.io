@@ -1,9 +1,6 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
- */module.exports = {
-  pathPrefix: "/paulofrancisco", // <-- this is required!
-  // your plugins and other configs below...
-}
+ */
 
 const config = require('./src/config');
 

@@ -23,7 +23,7 @@
     "clean": "gatsby clean",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages -f"
+    "deploy": "gatsby build && gh-pages -d public"
 
   },
   "lint-staged": {
