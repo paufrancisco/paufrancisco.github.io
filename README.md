@@ -47,3 +47,13 @@
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+## 🙏 Credits
+
+This project is based on the **Gatsby Minimal Starter** provided by [GatsbyJS](https://www.gatsbyjs.com/).  
+It was inspired by the open-source portfolio of [Brittany Chiang](https://brittanychiang.com/).
+
+If you plan to use or modify this project, please give proper attribution to the original creators.
+
+Original template: [bchiang7/v4](https://github.com/bchiang7/v4)  
+Starter code: [gatsbyjs/gatsby-starter-minimal](https://github.com/gatsbyjs/gatsby-starter-minimal)
