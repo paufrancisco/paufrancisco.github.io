@@ -9,6 +9,7 @@ const config = require('./src/config');
 
 
 module.exports = {
+  pathPrefix: "/paulofrancisco",
   flags: {
     DEV_SSR: true
   },
