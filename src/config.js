@@ -32,7 +32,7 @@ module.exports = {
   ],
   certifications:[
     {
-      name :  'Java Fundamentals Course Complete',
+      name :  'Java Fundamentals Course',
       date_acquired: 'June 24, 2023',
       issuer: 'Oracle Academy',
       file: 'JAVA-CERT.jpg',
@@ -40,8 +40,21 @@ module.exports = {
           'Object-Oriented Programming (OOP)',
           'Java Syntax and Semantics',
           'Exception Handling',
-          'Basic Data Structures in Java',
-          'File I/O'
+          'Basic Data Structures in Java' 
+      ]
+    },
+     {
+      name :  'Python Basic Course',
+      date_acquired: 'June 24, 2023',
+      issuer: 'Oracle Academy',
+      file: 'python-cert-basic.png',
+      skills : [
+          'Python Syntax and Semantics',
+          'Variables and Data Types',
+          'Control Structures (if, loops)',
+          'Functions and Modules',
+          'Basic Data Structures',
+          'File Input/Output'
       ]
     },
 
@@ -102,7 +115,7 @@ module.exports = {
       ]
     },
     {
-      name :  '13th Skills Olympics University of Makati',
+      name :  '13th Skills Olympics',
       date_acquired: 'November 22, 2024',
       issuer: 'UNIVERSITY OF MAKATI',
       file: 'UMAK-CODE-OLYMPICS-2024.jpg', 
@@ -116,7 +129,7 @@ module.exports = {
       ]
     },
     {
-      name :  '10th TOPCIT (Test of Practical Competency in IT)',
+      name :  '10th TOPCIT',
       date_acquired: 'November 20, 2024',
       issuer: 'IITP (Institute for Information & Communication Technology Promotion',
       file: 'TOPCIT.png', 
