@@ -45,8 +45,8 @@ module.exports = {
     },
      {
       name :  'Python Basic Course',
-      date_acquired: 'June 24, 2023',
-      issuer: 'Oracle Academy',
+      date_acquired: 'June 13, 2025',
+      issuer: 'Hacker Rank',
       file: 'python-cert-basic.png',
       skills : [
           'Python Syntax and Semantics',
