@@ -147,7 +147,7 @@ const Hero = () => {
                 <CSSTransition key={7} classNames="fadeup" timeout={loaderDelay}>
                 <img
                     style={{ transitionDelay: `100ms` }}
-                    src="paupau.jpg"
+                    src="placeholder.png"
                     alt="PeteCastle_front"
                 />
                 </CSSTransition>
