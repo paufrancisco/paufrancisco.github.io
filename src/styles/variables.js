@@ -2,16 +2,14 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
-    
-    
-    
-    --white: #e6f1ff;
+    --dark-navy: #333446;
+    --navy: #333446;
+    --light-navy: #7f8caa;
+    --lightest-navy: #b8cfce;
+    --navy-shadow: rgba(51, 52, 70, 0.7);
+    --dark-slate: #7f8caa;
+
+    --white: #eaefef;
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
@@ -21,15 +19,14 @@ const variables = css`
       sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
 
-
-    --lightest-slate: #fffcf2;
-    --light-slate: #f5ebe0;
-    --slate: #ccc5b9;
+    --lightest-slate: #eaefef;
+    --light-slate: #b8cfce;
+    --slate: #7f8caa;
     --orange: #eb5e28;
-    --lightest-grey: #8b8c89;
-    --light-grey: #403d39;
-    --grey: #252422;
-    --dark-grey: #131515;
+    --lightest-grey: #b8cfce;
+    --light-grey: #7f8caa;
+    --grey: #333446;
+    --dark-grey: #25262e;
 
     --fz-xxs: 12px;
     --fz-xs: 13px;
