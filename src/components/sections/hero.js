@@ -148,7 +148,7 @@ const Hero = () => {
                 <img
                     style={{ transitionDelay: `100ms` }}
                     src="placeholder.png"
-                    alt="PeteCastle_front"
+                    alt="Paulo_Francisco_Front"
                 />
                 </CSSTransition>
             )}
