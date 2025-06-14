@@ -182,7 +182,6 @@ const Projects = () => {
               tech
               github
               external
-              youtube
             }
             html
           }
@@ -214,7 +213,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech, youtube } = frontmatter;
+    const { github, external, title, tech } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -229,11 +228,7 @@ const Projects = () => {
                   <Icon name="GitHub" />
                 </a>
               )}
-              {youtube && (
-                <a href={youtube} aria-label="YouTube Link" target="_blank" rel="noreferrer">
-                  <Icon name="YouTube" />
-                </a>
-              )}
+              
               {external && (
                 <a
                   href={external}

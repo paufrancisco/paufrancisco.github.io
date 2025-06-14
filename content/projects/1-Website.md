@@ -1,7 +1,7 @@
 ---
-date: '2024-01-14'
+date: '8'
 title: 'Personal Website'
-github: 'https://github.com/PeteCastle/website'
+github: 'https://github.com/paufrancisco/paufrancisco.github.io'
 
 tech:
   - React.JS
