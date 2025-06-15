@@ -31,10 +31,13 @@ import IconNode from './node';
 import IconHTML from './html';
 import IconCSS from './css';
 import IconGit from './git';
-
-
-
-
+import IconCsharp from './cshapr';
+import IconAndroid from './android';
+import IconXML from './xml';
+import IconFigma from './figma';
+import IconCanva from './canva';
+import IconExcel from './excel';
+import IconGoogleSheets from  './googlesheets';
 const Icon = ({ name }) => {
   switch (name) {
     case 'Bookmark':
@@ -97,7 +100,22 @@ const Icon = ({ name }) => {
         return <IconCSS/>;  
     case 'Git':
         return <IconGit/>;
-      
+    case 'Csharp':
+        return<IconCsharp/>;
+    case 'Android-Studio':
+        return<IconAndroid/>;
+    case 'XML':
+        return<IconXML/>;
+    case 'Figma':
+        return<IconFigma/>;
+    case 'Canva':
+        return<IconCanva/>;
+
+    case 'Excel':
+        return<IconExcel/>;
+    case 'Google Sheets':
+        return<IconGoogleSheets/>;
+
     default:
       return <IconExternal />;
   }

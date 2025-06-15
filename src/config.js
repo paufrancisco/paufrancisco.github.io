@@ -3,11 +3,11 @@ module.exports = {
   technical_profile: [
      {
         name: '💻 Programming Languages',
-        skills: ['Python', 'C#', 'JavaScript', 'Java'],
+        skills: ['Python', 'Csharp', 'JavaScript', 'Java'],
       },
       {
         name: '🧠 Data Science & Analytics',
-        skills: ['Pandas', 'NumPy', 'Matplotlib', 'Scikit-Learn', 'Jupyter'],
+        skills: ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'Jupyter'],
       },
       {
         name: '🔄 Version Control & CI/CD',
@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         name: '📱 Mobile Development',
-        skills: ['Android Studio', 'XML'],
+        skills: ['Android-Studio', 'XML'],
       },
       {
         name: '🎨 UI/UX Design',
