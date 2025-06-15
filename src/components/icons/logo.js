@@ -2,11 +2,12 @@ import React from 'react';
 
 const IconLogo = () => (
     <svg xmlns="http://www.w3.org/2000/svg"  zoomAndPan="magnify"
-        viewBox="0 0 450 225" preserveAspectRatio="xMidYMid meet" version="1.0">
+        viewBox="0 0 500 100"   version="1.0">
         <defs>
             <g />
         </defs>
         <rect x="-45" width="540" stroke="currentColor" strokeWidth="5" y="-22.5" height="270" fillOpacity="1" />
+        
    
         <g fill="currentColor" fillOpacity="1">
             <g transform="translate(112.314171, 22.280799)">
@@ -84,6 +85,7 @@ const IconLogo = () => (
             stroke-linejoin="miter"
             d="M 0.000000000000028422 -0.0000133333 L 600.000063 -0.0000133333 L 600.000063 300.000018 L 0.000000000000028422 300.000018 Z M 0.000000000000028422 -0.0000133333 "
             stroke="currentColor" strokeWidth="20" stroke-opacity="1" stroke-miterlimit="4" />
+        
     </svg>
 );
 
