@@ -3,7 +3,7 @@ import React from 'react';
 import '@styles/loader.css';
 
 const IconLoader = () => (
-  <svg  id="logo" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 400 400" version="1.0">
+  <svg  id="logo" xmlns="http://www.w3.org/2000/svg"  viewBox="-200 0 700 400" version="1.0">
       <defs>
           <g></g>
            
@@ -70,19 +70,39 @@ const IconLoader = () => (
 
        
       
+      {/* < */}
+      <g clipPath="url(#e735eb9778)" transform="translate(-100, 160)">
+        <path 
+            fill="currentColor" 
+            d="M57.5469 17.5L25.1094 34.375L53.6094 57.0625L52.2969 64.5625L0.453125 31.75L53.0469 0.71875L57.5469 17.5Z" 
+            fillOpacity="1" 
+            fillRule="nonzero" 
+            class="svg-elem-23">
+        </path>
+      </g>
+
+      {/* / */}
+      <g clipPath="url(#e735eb9778)" transform="translate(-30, 150)">
+          <path 
+            fill="currentColor" 
+            d="M64.2344 9.4375L12.8594 92.4062L0.765625 85.1875L49.9844 0.15625L64.2344 9.4375Z"  
+            fillOpacity="1" 
+            fillRule="nonzero" 
+            class="svg-elem-24">
+        </path>
+      </g>
+
+      {/* > */}
+      <g clipPath="url(#8543308df8)" transform="translate(310, 160)">
+          <path 
+            fill="currentColor" 
+            d="M57.9375 31.75L6 64.6562L5.0625 57.0625L33.375 34.375L0.84375 17.5L5.4375 0.71875L57.9375 31.75Z" 
+            fillOpacity="1" 
+            fillRule="nonzero" 
+            class="svg-elem-25">
+         </path>
+      </g>
       
-      <g clipPath="url(#e735eb9778)">
-          <path fill="currentColor" d="M 262.746094 314.964844 L 285.144531 337.34375 L 293.578125 337.34375 L 271.140625 314.902344 Z M 262.746094 314.964844 " fillOpacity="1" fillRule="nonzero" class="svg-elem-23"></path>
-      </g>
-      <g clipPath="url(#5a163659fd)">
-          <path fill="currentColor" d="M 277.398438 314.964844 L 299.796875 337.34375 L 308.234375 337.34375 L 285.792969 314.902344 Z M 277.398438 314.964844 " fillOpacity="1" fillRule="nonzero" class="svg-elem-24"></path>
-      </g>
-      <g clipPath="url(#8543308df8)">
-          <path fill="currentColor" d="M 292.050781 314.964844 L 314.449219 337.34375 L 322.886719 337.34375 L 300.445312 314.902344 Z M 292.050781 314.964844 " fillOpacity="1" fillRule="nonzero" class="svg-elem-25"></path>
-      </g>
-      <g clipPath="url(#c1b2f0b1b1)">
-          <path fill="currentColor" d="M 315.097656 314.902344 L 306.703125 314.964844 L 329.101562 337.34375 L 337.539062 337.34375 Z M 315.097656 314.902344 " fillOpacity="1" fillRule="nonzero" class="svg-elem-26"></path>
-      </g>
   </svg>
   
 );

@@ -19,8 +19,8 @@ const StyledLoader = styled.div`
 
   .logo-wrapper {
     display: flex;
-    width: max-content;
-    max-width: 300px;
+    width: 500px;
+    max-width: 1000px;
     transition: var(--transition);
     
     opacity: ${props => (props.isMounted ? 1 : 0)};
