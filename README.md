@@ -46,14 +46,36 @@
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal) 
+
+## 🛠 Features
+
+This project is based on:
+
+Fast and minimal Gatsby setup
+
+Responsive layout
+
+Easily customizable components and sections
+
+
+## License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software, as long as you retain the original license and provide proper attribution.
+
+## Contact
+
+- GitHub: [https://github.com/paufrancisco](https://github.com/paufrancisco)  
+- TikTok: [https://www.tiktok.com/@java_doctor](https://www.tiktok.com/@java_doctor)
+
 
 ## 🙏 Credits
 
-This project is based on the **Gatsby Minimal Starter** provided by [GatsbyJS](https://www.gatsbyjs.com/).  
-It was inspired by the open-source portfolio of [Brittany Chiang](https://brittanychiang.com/).
+This project is based on:
 
-If you plan to use or modify this project, please give proper attribution to the original creators.
+- [gatsbyjs/gatsby-starter-minimal](https://github.com/gatsbyjs/gatsby-starter-minimal) – MIT Licensed
+- [bchiang7/v4](https://github.com/bchiang7/v4) – MIT Licensed portfolio inspiration
 
-Original template: [bchiang7/v4](https://github.com/bchiang7/v4)  
-Starter code: [gatsbyjs/gatsby-starter-minimal](https://github.com/gatsbyjs/gatsby-starter-minimal)
+Modified and customized by **Paulo Faustiniel Angelo L. Francisco**.
