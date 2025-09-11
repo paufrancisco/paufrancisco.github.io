@@ -119,7 +119,7 @@ const Footer = () => {
         <div className='author'><b>Paulo Faustiniel Angelo L. Francisco</b></div>
         <a href="https://github.com/bchiang7/v4">
           
-          <div><i>Template designed by Brittany Chiangs</i></div>
+          <div><i>Template designed by Brittany Chiang</i></div>
 
          
         </a>
