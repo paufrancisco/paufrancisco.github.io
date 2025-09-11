@@ -105,7 +105,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/Paulo-Francisco-Resume-V1.pdf"
+      href="/PAULO-FRANCISCO-RESUME-V4.pdf"
       target="_blank"
       rel="noreferrer"
     >
