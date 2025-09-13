@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'francisco.paulo.pf@gmail.com',
+  email: 'francisco.faustiniel.pf@gmail.com',
   technical_profile: [
      {
         name: '💻 Programming Languages',
