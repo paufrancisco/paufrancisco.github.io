@@ -141,6 +141,18 @@ module.exports = {
         'IT Business Understanding',
         'Information Security Basics',
         'Algorithm and Logic Analysis',
+        ]
+      },
+        {
+      name: 'ICS DAY Seminar',
+      date_acquired: 'November 18, 2025',
+      issuer: 'STI College Dasmariñas',
+      file: 'ICS_DAY_Certificate.png',
+      skills: [
+        'Cybersecurity Awareness',
+        'Digital Defense Strategies',
+        'Emerging Security Technologies',
+        'Digital Nation Security',
       ]
     },
   ],
@@ -153,15 +165,15 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/paulo-faustiniel-angelo-francisco-0212b12b1/',
+      url: 'https://www.linkedin.com/in/paulo-faustiniel-angelo-f-0212b12b1/',
     },
     {
       name: 'YouTube',
-      url: 'https://www.tiktok.com/@java_doctor',
+      url: 'https://www.tiktok.com/@imdocpau',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/impaulonism/',
+      url: 'https://www.instagram.com/whospfaf/',
     },
    
     
