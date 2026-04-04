@@ -94,11 +94,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am currently a senior Computer Science student at 
-        <a href="https://www.sti.edu/" target="_blank" rel="noreferrer">STI College of Dasmariñas</a>, 
-        driven by a strong interest in data science and software development. 
-        As a career shifter from a technical background, I transitioned into Computer Science to broaden my opportunities that will enhance my skills as well as explore the dynamic world of technology. 
-        I’m also proud to represent my school in the CodeFest competition.
+        I'm a fresh Computer Science graduate from{' '}
+        <a href="https://www.sti.edu/" target="_blank" rel="noreferrer">STI College of Dasmariñas</a>,
+        driven by a strong interest in web development and software development.
+        As a career shifter from a technical background, I transitioned into Computer Science
+        to broaden my opportunities and explore the dynamic world of technology.
       </p>
     </>
   );
