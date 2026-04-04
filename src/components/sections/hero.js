@@ -108,6 +108,7 @@ const Hero = () => {
       href="/PAULO-FRANCISCO-RESUME-V412.pdf"
       target="_blank"
       rel="noreferrer"
+      download
     >
       Download my resume
     </a>
