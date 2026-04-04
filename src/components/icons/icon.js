@@ -7,6 +7,7 @@ import IconFork from './fork';
 import IconGitHub from './github';
 import IconInstagram from './instagram';
 import IconLinkedin from './linkedin';
+import IconLaravel from './laravel';
 import IconLoader from './loader';
 import IconLogo from './logo';
 import IconStar from './star';
@@ -29,7 +30,7 @@ import IconDjango from './django';
 import IconHtmx from './htmx';
 import IconNode from './node';
 import IconHTML from './html';
-import IconCSS from './css';
+import IconCSS from './css'; 
 import IconGit from './git';
 import IconCsharp from './cshapr';
 import IconAndroid from './android';
@@ -38,6 +39,7 @@ import IconFigma from './figma';
 import IconCanva from './canva';
 import IconExcel from './excel';
 import IconGoogleSheets from  './googlesheets';
+import IconVue from './vue';
 const Icon = ({ name }) => {
   switch (name) {
     case 'Bookmark':
@@ -52,6 +54,10 @@ const Icon = ({ name }) => {
       return <IconGitHub />;
     case 'Instagram':
       return <IconInstagram />;
+    case 'Vue':
+      return <IconVue />;
+    case 'Laravel':
+      return <IconLaravel/>;
     case 'Linkedin':
       return <IconLinkedin />;
     case 'Loader':
