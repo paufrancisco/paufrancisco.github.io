@@ -169,7 +169,7 @@ module.exports = {
     },
     {
       name: 'YouTube',
-      url: 'https://www.tiktok.com/@imdocpau',
+      url: 'https://www.tiktok.com/@bookofjava',
     },
     {
       name: 'Instagram',

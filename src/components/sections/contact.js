@@ -59,7 +59,6 @@ const StyledContactSection = styled.section`
 
   }
 `;
-
 const Contact = () => {
   const revealContainer = useRef(null);
   const prefersReducedMotion = usePrefersReducedMotion();
@@ -74,18 +73,16 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">What's Next?</h2>
 
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        As part of my academic requirements, I'm currently <b>looking for internship opportunities in Manila / Cavite </b>, preferrably positions related to software engineering, software developement, or mobile development.  
-        <ul>
-          <li>Internship should be <b>hybrid or onsite</b> setup.</li>
-          <li>Internship should last <b>at least 300 hours</b>.</li>
-          <li>I can start on or before <b>January 5, 2026</b>.</li>
-          <li>Company must agree to sign a <b>Memorandum of Agreement</b> with my university.</li>
-        </ul>
+        I'm a fresh Computer Science graduate actively <b>looking for full-time opportunities</b> in software engineering or software development.
+      </p>
+
+      <p>
+        Whether you have a role in mind or just want to connect, my inbox is always open!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
