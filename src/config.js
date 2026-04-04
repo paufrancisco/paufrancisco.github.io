@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: '🌐 Web Development',
-        skills: ['HTML', 'CSS', 'JavaScript'],
+        skills: ['HTML', 'CSS', 'JavaScript','Laravel'],
       },
       {
         name: '📱 Mobile Development',
