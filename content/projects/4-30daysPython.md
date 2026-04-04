@@ -1,11 +1,13 @@
 ---
 date: '5'
-title: 'Python OJT Preparation'
+title: 'TODO List'
 cover: './pythonojtprep.png'
-github: 'https://github.com/paufrancisco/PYTHON_OJT_PREPARATION'
-external: 'https://github.com/paufrancisco/PYTHON_OJT_PREPARATION'
+github: 'https://github.com/paufrancisco/TODO-LIST'
+external: 'https://github.com/paufrancisco/TODO-LIST'
 tech:
-  - Python
+  - Laravel
+  - Vue.js
+  - PHP
 ---
 
-A structured collection of Python activities covering core concepts like control flow, OOP, file handling, and APIs — ideal for learners building strong programming fundamentals.
+A modern and efficient task management application built using PHP Laravel and Vue.js, designed to help users organize their daily activities with ease. The system allows users to create, update, delete, and track tasks in real time through a responsive and user-friendly interface.

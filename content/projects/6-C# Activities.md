@@ -1,15 +1,13 @@
 ---
 date: '3'
-title: 'C# Code Activities'
+title: 'Inventory App'
 cover: './csharp_activities.png'
-github: 'https://github.com/paufrancisco/CSHARP_CODE_ACTIVITIES'
-external: 'https://github.com/paufrancisco/CSHARP_CODE_ACTIVITIES'
+github: 'https://github.com/paufrancisco/INVENTORY-APP'
+external: 'https://inventory-app-production-bb87.up.railway.app/'
 tech:
-  - C#
-  - .NET
-  - OOP
-  - File I/O
-  - LINQ
+  - Laravel
+  - Vue.js
+  - PHP
 ---
 
-A curated collection of C# programming activities and mini-projects demonstrating core concepts such as object-oriented programming (OOP), file handling, and LINQ. Ideal for learners and developers looking to enhance their skills through practical C# examples.
+A powerful inventory management system developed using Laravel, Vue.js, and Axios. This application helps track products, manage stock levels, and organize data efficiently through a clean and user-friendly dashboard — ideal for small to medium businesses.

@@ -1,10 +1,12 @@
 ---
 date: '4'
-title: 'Python Code Challenge' 
-github: 'https://github.com/paufrancisco/PYTHON_CODE_CHALLENGE'
-external: 'https://github.com/paufrancisco/PYTHON_CODE_CHALLENGE'
+title: 'Blog App'
+github: 'https://github.com/paufrancisco/BLOG-APP'
+external: 'https://blog-app-production-1bb6.up.railway.app/'
 tech:
-  - Python
+  - Laravel
+  - Vue.js
+  - PHP
 ---
 
-**Python Code Challenge** is a collection of Python problem solutions and mini-algorithms. Each script showcases practical coding skills, algorithm design, and problem-solving techniques, useful for coding interviews or skill improvement.
+A modern and dynamic blogging platform built with Laravel, Vue.js, and Axios, designed for seamless content creation and user interaction. It features a responsive interface, efficient data handling, and a smooth user experience — perfect for publishing and managing articles with ease.

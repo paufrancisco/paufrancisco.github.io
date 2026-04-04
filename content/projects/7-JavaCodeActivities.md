@@ -1,12 +1,14 @@
 ---
 date: '2'
-title: 'Java Codes & Activities' 
-github: 'https://github.com/paufrancisco/JAVA_CODES_ACTIVITIES'
-external: 'https://github.com/paufrancisco/JAVA_CODES_ACTIVITIES'
+title: 'Job Board App'
+github: 'https://github.com/paufrancisco/JOB-BOARD-APP'
+external: 'https://github.com/paufrancisco/JOB-BOARD-APP'
 tag: 'Public'
 tech:
-  - Java
+  - Laravel
+  - Vue.js
+  - PHP
+  - MySQL
 ---
 
-A collection of Java mini-projects and exercises showcasing core concepts like OOP, file handling, and exception management that built to strengthen foundational Java skills through hands-on practice.
- 
+A full-stack job board web application built with Laravel, Vue.js, and MySQL. The system supports three user roles — admin, company, and applicant — each with their own set of permissions and views.
