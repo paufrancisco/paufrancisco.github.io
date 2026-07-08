@@ -134,15 +134,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              In 2022, I had a moment of realization — despite earning promotions in my job as an assembly technician. I knew it was time to take the next step and continue my college education. I was driven by curiosity: <i>“How are the mobile apps and websites I use every day actually built?”</i> That simple question sparked my interest in the world of software development.
-            </p>      
-
-            <p>
-              As I started learning more, I became deeply fascinated by how technology works behind the scenes and this curiosity pushed me to explore further — I began joining programming competitions and even formed small discussion groups with my classmates where we would challenge each other with coding problems and share what we learned. These moments shaped my passion and direction in tech.
+              In 2022, I had a moment of realization — despite earning promotions in my job as an assembly technician, I knew it was time to take the next step and continue my college education. I was driven by curiosity: <i>“How are the mobile apps and websites I use every day actually built?”</i> That simple question sparked my interest in the world of software development.
             </p>
 
             <p>
-              Throughout my academic journey, I have maintained a strong dedication to excellence. I’ve consistently earned high grades and currently hold a GPA of 1.21 — putting me on track to graduate as a Magna Cum Laude. My commitment to learning and growth in both inside and outside the classroom as well as continues to fuel my drive as an aspiring software developer.
+              As I started learning more, I became deeply fascinated by how technology works behind the scenes, and this curiosity pushed me to explore further — I began joining programming competitions and even formed small discussion groups with my classmates where we would challenge each other with coding problems and share what we learned. These moments shaped my passion and direction in tech.
+            </p>
+
+            <p>
+              That drive has since carried me into the industry. I've had the opportunity to work as a Junior Web Developer at BEESEE Global Technologies and currently serve as a Full Stack Developer at WhiteStrings, where I build and maintain both front-end and back-end components, integrate APIs, and manage databases for real-world applications. Turning that early curiosity into hands-on production work has been one of the most rewarding parts of this journey.
+            </p>
+
+            <p>
+              Throughout my academic journey, I've maintained a strong dedication to excellence. I've consistently earned high grades and currently hold a GWA of 1.21 — putting me on track to graduate as Magna Cum Laude in June 2026. My commitment to learning and growth, both inside and outside the classroom, continues to fuel my drive as a software developer.
             </p>
           </div>
 

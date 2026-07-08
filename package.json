@@ -9,6 +9,9 @@
     "url": "https://github.com/paufrancisco/paulofrancisco"
 
   },
+    "overrides": {
+    "gatsby-core-utils": "^4.14.0"
+  },
   "keywords": [
     "gatsby"
   ],

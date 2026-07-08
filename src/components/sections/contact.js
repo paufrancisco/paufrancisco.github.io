@@ -78,7 +78,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm a fresh Computer Science graduate actively <b>looking for full-time opportunities</b> in software engineering or software development.
+        I'm a fresh Computer Science graduate currently working as a Full Stack Developer on a project basis, and actively <b>looking for full-time opportunities</b> in software engineering or software development.
       </p>
 
       <p>

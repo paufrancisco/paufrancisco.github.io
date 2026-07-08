@@ -97,8 +97,9 @@ const Hero = () => {
         I'm a fresh Computer Science graduate from{' '}
         <a href="https://www.sti.edu/" target="_blank" rel="noreferrer">STI College of Dasmariñas</a>,
         driven by a strong interest in web development and software development.
-        As a career shifter from a technical background, I transitioned into Computer Science
-        to broaden my opportunities and explore the dynamic world of technology.
+        As a career shifter with over 5 years of hands-on experience in the manufacturing
+        and electronics industries, I transitioned into Computer Science to broaden my
+        opportunities and explore the dynamic world of technology.
       </p>
     </>
   );
