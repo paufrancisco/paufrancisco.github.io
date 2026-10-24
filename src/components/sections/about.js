@@ -142,11 +142,11 @@ const About = () => {
             </p>
 
             <p>
-              That drive has since carried me into the industry. I've had the opportunity to work as a Junior Web Developer at BEESEE Global Technologies and currently serve as a Full Stack Developer at WhiteStrings, where I build and maintain both front-end and back-end components, integrate APIs, and manage databases for real-world applications. Turning that early curiosity into hands-on production work has been one of the most rewarding parts of this journey.
+              That drive has since carried me into the industry. I worked as a Junior Web Developer at BEESEE Global Technologies and currently serve as a Full Stack Developer at WhiteStrings, where I build and maintain both front-end and back-end components, integrate APIs, and manage databases for real-world applications. Since July 2026, I'm also a part-time College Instructor at STI College Dasmariñas, teaching Automata Theory, Introduction to Computing, Digital Communications, and Game Programming, and I built a <a href="https://sir-francsico-s-portal.onrender.com/" target="_blank" rel="noreferrer">student class portal</a> for my own classes. Turning that early curiosity into hands-on work, and now helping others learn, has been one of the most rewarding parts of this journey.
             </p>
 
             <p>
-              Throughout my academic journey, I've maintained a strong dedication to excellence. I've consistently earned high grades and currently hold a GWA of 1.21 — putting me on track to graduate as Magna Cum Laude in June 2026. My commitment to learning and growth, both inside and outside the classroom, continues to fuel my drive as a software developer.
+              I graduated Magna Cum Laude in June 2026 with a GWA of 1.22, and was recognized as Best Programmer and Best in Software Development. My commitment to learning and growth, both inside and outside the classroom, continues to fuel my drive as a software developer. I'm available for freelance projects, so feel free to reach out through the contact section below or on <a href="https://www.linkedin.com/in/paulo-faustiniel-angelo-f-0212b12b1/" target="_blank" rel="noreferrer">LinkedIn</a>.
             </p>
           </div>
 

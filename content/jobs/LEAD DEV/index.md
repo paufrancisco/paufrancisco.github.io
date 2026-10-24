@@ -16,3 +16,5 @@ company_description: 'Self-driven development work focused on building real-worl
 - **ShapeShift**: Developed a fitness app that recommends workout plans based on BMI and user goals, with challenge modes and trackers  
 - **Edelstein Labyrinth**: Led development of a 2D fantasy RPG-style maze game in Unity, designing mechanics, sprites, and levels  
 - Applied full-stack principles, integrated APIs and databases, and maintained code repositories using Git and GitHub
+- Freelance web developer with **iBuild.PH** (2023 – Present): front-end and back-end work for client websites, UI implementation, and database integration
+- **Open to new freelance projects**, reach out through the contact section or LinkedIn

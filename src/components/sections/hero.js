@@ -94,12 +94,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a fresh Computer Science graduate from{' '}
+        I'm a Computer Science graduate (Magna Cum Laude) from{' '}
         <a href="https://www.sti.edu/" target="_blank" rel="noreferrer">STI College of Dasmariñas</a>,
-        driven by a strong interest in web development and software development.
-        As a career shifter with over 5 years of hands-on experience in the manufacturing
-        and electronics industries, I transitioned into Computer Science to broaden my
-        opportunities and explore the dynamic world of technology.
+        a full stack developer, and a part-time college instructor. As a career shifter with
+        over 5 years of hands-on experience in the manufacturing and electronics industries,
+        I now build web and mobile apps and teach programming, and I'm open to
+        <b> freelance projects</b>.
       </p>
     </>
   );
